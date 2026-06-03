@@ -1,4 +1,4 @@
-# ![PlanPilot Banner](./screenshots/banner.png)
+# <img width="1774" height="887" alt="banner" src="https://github.com/user-attachments/assets/fb12434d-28bb-4dd4-82f5-29dd310f6a75" />
 
 # 🚀 PlanPilot – Agile Project Management SaaS
 
@@ -28,7 +28,8 @@ Designed with scalability and collaboration in mind, PlanPilot provides organiza
 
 The homepage introduces the platform and provides quick access to project creation and organization management.
 
-![Landing Page](./screenshots/landing-page.png)
+![Landing Page]<img width="1888" height="751" alt="landing-page" src="https://github.com/user-attachments/assets/3c2cf3ad-4e39-455a-88ba-264464345df0" />
+
 
 ---
 
@@ -36,7 +37,8 @@ The homepage introduces the platform and provides quick access to project creati
 
 Create projects with unique project keys and descriptions inside your organization workspace.
 
-![Create Project](./screenshots/create-project.png)
+![Create Project]<img width="1897" height="750" alt="create-project" src="https://github.com/user-attachments/assets/d01c0fb1-8e9c-4493-a2fc-b31afc5cf6a8" />
+
 
 ---
 
@@ -44,7 +46,8 @@ Create projects with unique project keys and descriptions inside your organizati
 
 Manage multiple projects across organizations with a clean and organized interface.
 
-![Organizations Dashboard](./screenshots/organizations-dashboard.png)
+![Organizations Dashboard]<img width="1919" height="910" alt="organizations-dashboard" src="https://github.com/user-attachments/assets/2d75ae37-31af-4693-945e-5777c4b7bb4b" />
+
 
 ---
 
@@ -52,7 +55,8 @@ Manage multiple projects across organizations with a clean and organized interfa
 
 Track sprint progress through an intuitive Kanban workflow.
 
-![Sprint Board](./screenshots/sprint-board.png)
+![Sprint Board]<img width="1917" height="901" alt="sprint-board" src="https://github.com/user-attachments/assets/89c19f65-2d28-4ea6-af1c-832271a488b7" />
+
 
 ---
 
@@ -60,7 +64,8 @@ Track sprint progress through an intuitive Kanban workflow.
 
 Create, prioritize, assign, and move issues across workflow stages.
 
-![Issue Management](./screenshots/issue-management.png)
+![Issue Management]<img width="1919" height="700" alt="issue-management" src="https://github.com/user-attachments/assets/31df16d6-759b-4e7f-b0fe-b1166f2f5604" />
+
 
 ---
 
